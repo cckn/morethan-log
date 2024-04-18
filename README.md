@@ -28,7 +28,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 - Your profile information can be updated through Config. (`site.config.js`)
 - Plugins support includes, Google Analytics, Search Console and also Commenting using Github Issues(Utterances) or Cusdis.
 
-## Getting Started
+## Getting Started!
 
 1. Star this repo.
 2. [Fork](https://github.com/morethanmin/morethan-log/fork) the repo to your Profile.
